@@ -5,32 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>A complete and updated publication list is available on <a href="{{site.author.googlescholar}}">Google Scholar</a>. Selected recent and representative papers are listed below.</p>
 
-{% include base_path %}
+<h2>Selected Publications</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol>
+  <li>Mingsong Li*, Lee R. Kump, Andy Ridgwell, Jessica E. Tierney, Gregory J. Hakim, Steven B. Malevich, Christopher J. Poulsen, Robert Tardif, Haoxun Zhang, Jiang Zhu, 2024. Coupled decline in ocean pH and carbonate saturation during the Paleocene-Eocene Thermal Maximum. <em>Nature Geoscience</em>, 17, 1299-1305.</li>
+  <li>Mingsong Li*, 2026. Acycle: Enhanced time-series analysis software for geoscience research and education. <em>Science China Earth Sciences</em>.</li>
+  <li>Haotian Zhang, Yan Chen, James G. Ogg, Zhiming Sun, Paul B. Wignall, Meng Wang, Haoxun Zhang, Xiaoyu Zhang, Yang Zhang, Keke Huang, Hongliang Lu, Baochun Huang, Mingsong Li*, 2025. Astronomically calibrated integrated stratigraphy of the Induan Stage and significance for the Permian-Triassic mass extinction and aftermath. <em>Earth and Planetary Science Letters</em>, 669, 119563.</li>
+  <li>Qingqing Jiang, Mingsong Li*, Weiqi Yao, Ren Wei, Kaixuan Ji, Haotian Zhang, Zhijun Jin, 2025. Astrochronology of the Paleocene-Eocene Thermal Maximum on the East Tasman Plateau. <em>Global and Planetary Change</em>, 252, 104882.</li>
+  <li>Meng Wang, Mingsong Li*, Elizabeth A. Hajek, David B. Kemp, Yujing Wu, Hanyu Zhu, Chunju Huang, Haotian Zhang, Kaixuan Ji, Rui Zhang, Ren Wei, Zhijun Jin*, 2024. Assessing the preservation of orbital signals across different sedimentary environments. <em>Earth and Planetary Science Letters</em>, 642, 118866.</li>
+  <li>Mingsong Li*, Haotian Zhang, Meng Wang, Zhijun Jin, 2023. Astronomically forced changes in groundwater reservoirs and sea level during the greenhouse world. <em>Chinese Science Bulletin</em>, 68, 1517-1527.</li>
+  <li>Meng Wang, Mingsong Li*, David Kemp, Jan Landwehrs, Zhijun Jin, 2023. Late Triassic sedimentary records reveal the hydrological response to climate forcing and the history of the chaotic Solar System. <em>Earth and Planetary Science Letters</em>, 607, 118052.</li>
+  <li>Mingsong Li*, Timothy J. Bralower, Lee R. Kump, Jean M. Self-Trail, James C. Zachos, William D. Rush, Marci M. Robinson, 2022. Astrochronology of the Paleocene-Eocene Thermal Maximum on the Atlantic Coastal Plain. <em>Nature Communications</em>, 13, 5618.</li>
+  <li>Ying Cui*, Mingsong Li*, Elsbeth E. van Soelen, Francien Peterse, Wolfram M. Kurschner*, 2021. Massive and rapid predominantly volcanic CO2 emission during the end-Permian mass extinction. <em>Proceedings of the National Academy of Sciences</em>, 118, e2014701118.</li>
+  <li>Mingsong Li, Linda Hinnov, Lee Kump, 2019. Acycle: Time-series analysis software for paleoclimate research and education. <em>Computers &amp; Geosciences</em>, 127, 12-22.</li>
+  <li>Mingsong Li, Linda Hinnov, Chunju Huang, James Ogg, 2018. Sedimentary noise and sea levels linked to land-ocean water exchange and obliquity forcing. <em>Nature Communications</em>, 9, 1004.</li>
+  <li>Mingsong Li, James Ogg, Yang Zhang, Chunju Huang, Linda Hinnov, Zhong-Qiang Chen, Zhuoyan Zou, 2016. Astronomical tuning of the end-Permian extinction and the Early Triassic Epoch of South China and Germany. <em>Earth and Planetary Science Letters</em>, 441, 10-25.</li>
+</ol>
 
-
-
+<p>* Corresponding author.</p>

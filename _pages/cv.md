@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Geology, China University of Geosciences (Wuhan), 2016
+* Visiting Ph.D. student, Johns Hopkins University, 2014-2016
+* M.S., Paleontology and Stratigraphy, Jilin University, 2012
+* B.S., Geology, Jilin University, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Peking University, 2020-present
+* Assistant Research Professor, Pennsylvania State University, 2019-2020
+* Postdoctoral Researcher, Pennsylvania State University, 2017-2018
+* Postdoctoral Researcher, George Mason University, 2016-2017
+* Research Assistant, China University of Geosciences, 2012-2016
+* Research Assistant, Jilin University, 2009-2012
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Paleoclimatology; paleohydrology; astronomical forcing; sedimentology; Earth-system modeling; data assimilation; time-series analysis; software development.
 
-Publications
+Selected awards and honors
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2026 Sun Shu Prize, International Association of Sedimentologists
+* 2025 China Sun Shu Award
+* 2025 Major Advances in Chinese Paleontology in 2024, Paleontological Society of China
+* 2021 National Young Talents Program
+* 2021 Peking University Boya Young Fellow
+
+Selected publications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+See [Publications](/publications/) and [Google Scholar](https://scholar.google.com/citations?user=NYUXDW0AAAAJ).
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Courses include Data Science for Geoscience, Deep-Time Earth Data Analysis and Visualization, and Seminar on Paleobiology and Stratigraphy.
+
+Software
 ======
-* Currently signed in to 43 different slack teams
+* Acycle: time-series analysis software for paleoclimate research and education
+* DeepDA: paleoclimate data-assimilation software
+
+Service
+======
+I serve on disciplinary committees and editorial boards, and review manuscripts and research proposals in geoscience and paleoclimate-related fields.
+
+[Download full CV](/files/Mingsong_Li_CV.docx).
