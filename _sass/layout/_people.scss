@@ -1,0 +1,119 @@
+/* ==========================================================================
+   People
+   ========================================================================== */
+
+.people-group {
+  margin: 1.5em 0 2em;
+}
+
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 1rem;
+  margin: 1rem 0 0;
+}
+
+.person-card {
+  display: block;
+  flex: 0 1 170px;
+  width: 170px;
+  overflow: hidden;
+  color: inherit;
+  text-decoration: none !important;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.person-card:hover {
+  color: inherit;
+  border-color: var(--global-link-color);
+  box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.person-card__photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 18%;
+  background: var(--global-border-color);
+}
+
+.person-card__body {
+  display: block;
+  min-height: 5rem;
+  padding: 0.85rem;
+  text-align: center;
+}
+
+.person-card__name,
+.person-card__role {
+  display: block;
+}
+
+.person-card__name {
+  font-family: $sans-serif;
+  font-size: $type-size-5;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.person-card__role {
+  margin-top: 0.35rem;
+  color: var(--global-text-color-light);
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  line-height: 1.3;
+}
+
+.person-profile {
+  display: grid;
+  grid-template-columns: minmax(170px, 240px) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  margin: 0 0 1.75rem;
+}
+
+.person-profile__photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center 18%;
+  border-radius: 8px;
+  border: 1px solid var(--global-border-color);
+}
+
+.person-profile__summary {
+  font-family: $sans-serif;
+}
+
+.person-profile__summary p {
+  margin-bottom: 0.5rem;
+}
+
+.person-profile__role {
+  margin-top: 0;
+  font-size: $type-size-5;
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  .person-card {
+    flex-basis: calc(50% - 0.5rem);
+    width: calc(50% - 0.5rem);
+    max-width: 170px;
+  }
+
+  .person-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .person-profile__photo {
+    max-width: 220px;
+  }
+}

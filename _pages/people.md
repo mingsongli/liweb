@@ -9,23 +9,24 @@ The Deep-Time Global Change group works on paleoclimate, stratigraphy, paleohydr
 
 ## Current Group
 
-**Postdoctoral Researcher**
-
-* Kaixuan Ji, Peking University
-
-**Ph.D. Students**
-
-* Haotian Zhang, since 2021
-* Xiaoyu Zhang, since 2022
-* Hanyu Zhu, since 2023
-* Zhixin Wang, since 2024
-* Xinwen Zhang, since 2025
-
-**Undergraduate Students**
-
-* Jiahao Liu
-* Heng Wu
-* Zhenglei Wu
+<div class="people-groups">
+{% for group in site.data.current_group %}
+  <section class="people-group" aria-labelledby="current-group-{{ forloop.index }}">
+    <h3 id="current-group-{{ forloop.index }}">{{ group.title }}</h3>
+    <div class="people-grid">
+    {% for member in group.members %}
+      <a class="person-card" href="{{ member.url | relative_url }}">
+        <img class="person-card__photo" src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <span class="person-card__body">
+          <span class="person-card__name">{{ member.name }}</span>
+          <span class="person-card__role">{{ member.role }}</span>
+        </span>
+      </a>
+    {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+</div>
 
 ## Former Group Members And Visitors
 
