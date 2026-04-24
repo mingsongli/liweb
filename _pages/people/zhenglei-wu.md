@@ -27,3 +27,5 @@ Cyclostratigraphy; chronostratigraphic timescale.
 ## Research Interests
 
 Cyclostratigraphy.
+
+[Back to People]({{ '/people/' | relative_url }})

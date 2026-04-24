@@ -33,3 +33,5 @@ Cyclostratigraphy; astrochronology; quantitative stratigraphy; Bayesian inferenc
 ## Publications
 
 1. Wang, M., Li, M., Hajek, E.A., Kemp, D.B., Wu, Y., Zhu, H., Huang, C., Zhang, H., Ji, K., Zhang, R., Wei, R., Jin, Z., 2024. Assessing the preservation of orbital signals across different sedimentary environments: Insights from stochastic sedimentation modeling. *Earth and Planetary Science Letters* 642, 118866. DOI: 10.1016/j.epsl.2024.118866.
+
+[Back to People]({{ '/people/' | relative_url }})

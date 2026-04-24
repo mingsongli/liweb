@@ -53,3 +53,5 @@ Early Triassic; cyclostratigraphy; orbital forcing; paleoclimate modeling; paleo
 ## Projects
 
 - China Scholarship Council Joint PhD Program, 2024-2025.
+
+[Back to People]({{ '/people/' | relative_url }})

@@ -30,3 +30,5 @@ Paleoclimate data assimilation; Earth system model; proxy system model; Cenozoic
 - Data assimilation of marine deoxygenation during the Paleocene-Eocene Thermal Maximum.
 - Proxy system modeling for seawater dissolved oxygen based on Bayesian inference.
 - Causal inference in paleoclimate time series.
+
+[Back to People]({{ '/people/' | relative_url }})

@@ -27,3 +27,5 @@ Cyclostratigraphy.
 ## Honors and Awards
 
 - Merit Student, Peking University, Academic Year 2024-2025.
+
+[Back to People]({{ '/people/' | relative_url }})
