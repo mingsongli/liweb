@@ -20,5 +20,3 @@ Kaixuan Ji is a postdoctoral researcher at Peking University and a member of the
 - Astrochronology and cyclostratigraphy
 - Deep-time climate and stratigraphy
 - Quantitative approaches to geological records
-
-[Back to People]({{ '/people/' | relative_url }})

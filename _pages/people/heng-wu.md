@@ -31,5 +31,3 @@ Late Permian mass extinction data assimilation.
 ## Projects
 
 - Undergraduate Research: Data Assimilation of Carbon and Oxygen Isotopes during the Late Permian Mass Extinction Event.
-
-[Back to People]({{ '/people/' | relative_url }})

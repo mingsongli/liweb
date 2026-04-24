@@ -52,5 +52,3 @@ Warm periods without large continental ice sheets still show repeated sea-level 
 **The Sponge Continent hypothesis.** Building on these reconstructions, I proposed the Sponge Continent hypothesis as a testable way to think about groundwater in greenhouse climates. In this view, continental aquifers can store and release water over long timescales, partly buffering or amplifying sea-level change. The hypothesis does not replace other mechanisms; rather, it adds a component that may have been underestimated. Testing it requires better records, improved models, and careful comparison among basins. Its broader value is to bring groundwater into discussions of ancient sea level, climate, and ecosystem change.
 
 Overall, my research aims to make deep-time climate records more useful: better dated, more quantitative, and more closely connected to mechanisms. I hope these efforts help provide a geological perspective on climate change while also giving students and collaborators practical tools for open, reproducible research.
-
-[Download the research summary as a Word document](/files/Mingsong_Li_Research.docx).

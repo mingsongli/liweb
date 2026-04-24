@@ -37,5 +37,3 @@ Mars cyclostratigraphy; early Martian climate evolution; deep-time Solar System 
 - Excellent Graduate of Peking University, 2024.
 - Excellent Student Leader of Peking University, 2023.
 - Merit Student of Peking University, 2022.
-
-[Back to People]({{ '/people/' | relative_url }})

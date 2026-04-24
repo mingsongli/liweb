@@ -13,10 +13,14 @@ My group studies how Earth's climate, oceans, and water cycle changed during war
 
 I also develop open research tools, including [Acycle](https://github.com/mingsongli/acycle) for cyclostratigraphy and paleoclimate time-series analysis, and [DeepDA](https://github.com/mingsongli/deepDA) for paleoclimate data assimilation.
 
-Selected links:
+## Research News
 
-* [Research](/research/)
-* [Publications](/publications/)
-* [Teaching](/teaching/)
-* [Google Scholar](https://scholar.google.com/citations?user=NYUXDW0AAAAJ)
-* [Full CV](/files/Mingsong_Li_CV.docx)
+<article class="research-news-card">
+  <a href="/news/international-sun-shu-prize/">
+    <img src="/images/profile.png" alt="Mingsong Li" />
+  </a>
+  <div>
+    <h3><a href="/news/international-sun-shu-prize/">Mingsong Li receives the 2026 Sun Shu Prize from the International Association of Sedimentologists</a></h3>
+    <p>Peking University reported that Mingsong Li received the 2026 Sun Shu Prize from the International Association of Sedimentologists. The recognition highlights his contributions to cyclostratigraphy, deep-time paleoclimate research, and quantitative tools for sedimentary geology.</p>
+  </div>
+</article>

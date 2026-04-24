@@ -40,5 +40,3 @@ Geosciences; paleoclimatology; data assimilation; paleoceanography.
 ## Projects
 
 - Undergraduate Research: Carbon Isotope Data Assimilation for the Paleocene-Eocene Thermal Maximum.
-
-[Back to People]({{ '/people/' | relative_url }})

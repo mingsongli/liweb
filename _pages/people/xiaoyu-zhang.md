@@ -35,5 +35,3 @@ Mesoproterozoic cyclostratigraphy; Solar System evolution; Earth-Moon orbital dy
 ## Projects
 
 - China Scholarship Council National High-Level University Postgraduate Program, 2025, supporting joint PhD training at the Paris Observatory.
-
-[Back to People]({{ '/people/' | relative_url }})
