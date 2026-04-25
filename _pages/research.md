@@ -17,9 +17,9 @@ Geological records preserve time unevenly. A bed may represent years, centuries,
 
 **Acycle as a practical tool for time-series analysis.** I developed Acycle to make common cyclostratigraphic and paleoclimate time-series methods easier to apply and check. The software brings together spectral analysis, Monte Carlo tests, astronomical tuning tools, visualization, and teaching functions in one platform. In recent versions, my group has added methods for testing the significance of cycles, handling larger datasets, and comparing alternative time-scale interpretations. I see Acycle mainly as infrastructure: it helps researchers and students examine whether a pattern in a sedimentary record is likely to be meaningful, and it makes the steps of an analysis easier to repeat.
 
-![Figure 1. Acycle: a software platform for cyclostratigraphic time-series analysis. The chart summarizes its use in the literature compared with several related tools.](/images/research-figure-1.png)
+![Figure 1. Overview of the Acycle software graphical user interface showing the main menus and available functions, including modules for file management, editing, plotting, generating basic series, mathematical operations, time series analysis, and help utilities.](/images/research-figure-1-1.jpg)
 
-*Figure 1. Acycle: a software platform for cyclostratigraphic time-series analysis. The chart summarizes its use in the literature compared with several related tools.*
+*Figure 1. Overview of the Acycle software graphical user interface showing the main menus and available functions, including modules for file management, editing, plotting, generating basic series, mathematical operations, time series analysis, and help utilities.*
 
 **Triassic time scales and stratigraphic calibration.** A second part of this work applies these methods to the Triassic, a period that includes major environmental change and biological recovery after the end-Permian mass extinction. By combining cyclostratigraphy with magnetostratigraphy, radiometric ages, fossils, and geochemical records, we have worked to improve estimates of the durations and boundaries of key Triassic intervals. These time scales help researchers ask more precise questions about the pace of environmental change, the timing of ecological recovery, and links among climate, oceans, and life.
 
