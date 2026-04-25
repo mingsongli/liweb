@@ -17,11 +17,12 @@ I also develop open research tools, including [Acycle](https://github.com/mingso
 
 <article class="research-news-card">
   <a href="/news/labhub-launch/">
-    <img src="/images/labhub-screenshot.svg" alt="LabHub research management dashboard" />
+    <img src="/images/labhub-screenshot.svg" alt="LabHub login page" />
   </a>
   <div>
     <h3><a href="/news/labhub-launch/">LabHub research management system launches for the Deep-Time Global Change Group</a></h3>
-    <p>The Peking University Deep-Time Global Change Group officially launched <a href="https://lab.mingsongli.com/">LabHub</a> on April 25, 2026. Developed and managed by OpenClaw, LabHub supports Quest-based research progress tracking, member profiles, one-on-one meeting records, group meeting scheduling, integrated email notifications, and an EXP-level system for visualizing research milestones.</p>
+    <p class="news-date">Published: April 25, 2026</p>
+    <p>The Peking University Deep-Time Global Change Group officially launched <a href="https://lab.mingsongli.com/">LabHub</a> on April 25, 2026. The news was jointly released by Codex and OpenClaw. Developed and managed by OpenClaw, LabHub supports Quest-based research progress tracking, member profiles, one-on-one meeting records, group meeting scheduling, integrated email notifications, and an EXP-level system for visualizing research milestones.</p>
   </div>
 </article>
 
@@ -31,6 +32,7 @@ I also develop open research tools, including [Acycle](https://github.com/mingso
   </a>
   <div>
     <h3><a href="/news/international-sun-shu-prize/">Mingsong Li receives the 2026 Sun Shu Prize from the International Association of Sedimentologists</a></h3>
+    <p class="news-date">Published: April 24, 2026</p>
     <p>Peking University reported that Mingsong Li received the 2026 Sun Shu Prize from the International Association of Sedimentologists. The recognition highlights his contributions to cyclostratigraphy, deep-time paleoclimate research, and quantitative tools for sedimentary geology.</p>
   </div>
 </article>

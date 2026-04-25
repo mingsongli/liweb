@@ -7,31 +7,38 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+This page provides a structured guide to the main sections of the website.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+## Main Pages
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+- [Home]({{ base_path }}/)
+- [People]({{ base_path }}/people/)
+- [Research]({{ base_path }}/research/)
+- [Publications]({{ base_path }}/publications/)
+- [Teaching]({{ base_path }}/teaching/)
+- [Talks]({{ base_path }}/talks/)
+- [Software]({{ base_path }}/software/)
+- [Media]({{ base_path }}/media/)
+- [CV]({{ base_path }}/cv/)
 
-{% capture written_label %}'None'{% endcapture %}
+## News
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+- [LabHub Research Management System Launches]({{ base_path }}/news/labhub-launch/)
+- [Mingsong Li Receives the 2026 Sun Shu Prize]({{ base_path }}/news/international-sun-shu-prize/)
+
+## Current Group Members
+
+- [Kaixuan Ji]({{ base_path }}/people/kaixuan-ji/)
+- [Haotian Zhang]({{ base_path }}/people/haotian-zhang/)
+- [Xiaoyu Zhang]({{ base_path }}/people/xiaoyu-zhang/)
+- [Hanyu Zhu]({{ base_path }}/people/hanyu-zhu/)
+- [Zhixin Wang]({{ base_path }}/people/zhixin-wang/)
+- [Xinwen Zhang]({{ base_path }}/people/xinwen-zhang/)
+- [Jiahao Liu]({{ base_path }}/people/jiahao-liu/)
+- [Heng Wu]({{ base_path }}/people/heng-wu/)
+- [Zhenglei Wu]({{ base_path }}/people/zhenglei-wu/)
+- [Rumeng Liu]({{ base_path }}/people/rumeng-liu/)
+
+## Site Files
+
+- [XML sitemap]({{ base_path }}/sitemap.xml)

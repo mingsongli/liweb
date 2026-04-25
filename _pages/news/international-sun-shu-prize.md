@@ -3,7 +3,10 @@ layout: archive
 title: "Mingsong Li Receives the 2026 Sun Shu Prize"
 permalink: /news/international-sun-shu-prize/
 author_profile: true
+date: 2026-04-24
 ---
+
+<p class="news-date">Published: April 24, 2026</p>
 
 <img class="news-hero-image" src="/images/profile.png" alt="Mingsong Li" />
 
@@ -14,3 +17,5 @@ The award recognizes contributions to sedimentology and related fields. Li's res
 The recognition also reflects the broader international visibility of quantitative stratigraphy and deep-time climate research at Peking University. Related work from Li's group includes the development of Acycle for cyclostratigraphic time-series analysis and DeepDA for paleoclimate data assimilation.
 
 More details are available from [Peking University News](https://news.pku.edu.cn/xwzh/dda45c73785b41b78522f75364203159.htm).
+
+*This news item was drafted by Codex.*
