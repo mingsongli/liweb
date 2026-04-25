@@ -13,7 +13,17 @@ My group studies how Earth's climate, oceans, and water cycle changed during war
 
 I also develop open research tools, including [Acycle](https://github.com/mingsongli/acycle) for cyclostratigraphy and paleoclimate time-series analysis, and [DeepDA](https://github.com/mingsongli/deepDA) for paleoclimate data assimilation.
 
-## Research News
+## News
+
+<article class="research-news-card">
+  <a href="/news/labhub-launch/">
+    <img src="/images/labhub-screenshot.svg" alt="LabHub research management dashboard" />
+  </a>
+  <div>
+    <h3><a href="/news/labhub-launch/">LabHub research management system launches for the Deep-Time Global Change Group</a></h3>
+    <p>The Peking University Deep-Time Global Change Group officially launched <a href="https://lab.mingsongli.com/">LabHub</a> on April 25, 2026. Developed and managed by OpenClaw, LabHub supports Quest-based research progress tracking, member profiles, one-on-one meeting records, group meeting scheduling, integrated email notifications, and an EXP-level system for visualizing research milestones.</p>
+  </div>
+</article>
 
 <article class="research-news-card">
   <a href="/news/international-sun-shu-prize/">
