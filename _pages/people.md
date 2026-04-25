@@ -30,11 +30,11 @@ The Deep-Time Global Change group works on paleoclimate, stratigraphy, paleohydr
 
 ## Former Group Members And Visitors
 
-* Meng Wang, former Boya Postdoctoral Fellow; now Associate Professor, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences
-* Qingqing Jiang, former M.S. student; now Ph.D. student, University of Munster
+* [Meng Wang](https://english.nigpas.cas.cn/sourcedb/fyjy/202408/t20240823_683839.html), former Boya Postdoctoral Fellow; now Associate Professor, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences
+* [Qingqing Jiang](https://qqjiang-edu.github.io/), former M.S. student; now Ph.D. student, University of Munster
 * Haoxun Zhang, former M.S. student
 * Hanyu Zhu, former undergraduate student; now Ph.D. student, Peking University
-* Yujing Wu, co-supervised doctoral student; now postdoctoral researcher at IMCCE, Observatoire de Paris
+* [Yujing Wu](https://www.imcce.fr/recherche/equipes/asd/members), co-supervised doctoral student; now postdoctoral researcher at IMCCE, Observatoire de Paris
 * Ciro Climaco Rodrigues, former associate-supervised M.S. student, National Observatory in Rio de Janeiro; now at Petrobras
 * Mariana Aragao Fernandes, former associate-supervised M.S. student, National Observatory in Rio de Janeiro
 
