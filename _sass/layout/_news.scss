@@ -38,6 +38,20 @@
   margin: 0 0 1.25rem;
 }
 
+.news-figure {
+  margin: 0 0 1.25rem;
+}
+
+.news-figure .news-hero-image {
+  margin-bottom: 0.35rem;
+}
+
+.news-figure figcaption {
+  color: var(--global-text-color-light);
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+}
+
 @media (max-width: 600px) {
   .research-news-card {
     grid-template-columns: 1fr;

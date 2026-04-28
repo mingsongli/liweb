@@ -23,6 +23,7 @@ This page provides a structured guide to the main sections of the website.
 
 ## News
 
+- [Mingsong Li Presents AI Explorations in Deep-Time, Deep-Space, Deep-Earth, and Deep-Sea Research]({{ base_path }}/news/ai-exploration-deep-time-space-earth-ocean/)
 - [LabHub Research Management System Launches]({{ base_path }}/news/labhub-launch/)
 - [Mingsong Li Receives the 2026 Sun Shu Prize]({{ base_path }}/news/international-sun-shu-prize/)
 

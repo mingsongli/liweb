@@ -16,6 +16,17 @@ I also develop open research tools, including [Acycle](https://github.com/mingso
 ## News
 
 <article class="research-news-card">
+  <a href="/news/ai-exploration-deep-time-space-earth-ocean/">
+    <img src="/images/20260428News.png" alt="Clockwise from left: Yu Liu, Xinguang Fan, Jianghui Du, Jiaqi Li, and Mingsong Li" />
+  </a>
+  <div>
+    <h3><a href="/news/ai-exploration-deep-time-space-earth-ocean/">Mingsong Li presents AI explorations in deep-time, deep-space, deep-earth, and deep-sea research</a></h3>
+    <p class="news-date">Published: April 28, 2026</p>
+    <p>Mingsong Li participated in a Peking University salon and gave a presentation titled "AI Explorations in Deep-Time, Deep-Space, Deep-Earth, and Deep-Sea Research." The talk covered Bayesian inversion of stratigraphic sequences for reconstructing Solar System orbital evolution, as well as Transformer models and data assimilation for studying climate sensitivity and ocean acidification.</p>
+  </div>
+</article>
+
+<article class="research-news-card">
   <a href="/news/labhub-launch/">
     <img src="/images/labhub-screenshot.svg" alt="LabHub login page" />
   </a>
