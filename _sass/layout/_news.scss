@@ -17,6 +17,10 @@
   border-radius: 6px;
 }
 
+.research-news-card--text {
+  grid-template-columns: 1fr;
+}
+
 .research-news-card h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;

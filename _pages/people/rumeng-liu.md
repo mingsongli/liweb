@@ -14,7 +14,7 @@ author_profile: true
   </div>
 </div>
 
-Rumeng Liu is an undergraduate student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry. Her current research interest is cyclostratigraphy.
+Rumeng Liu is an undergraduate student in the School of Earth and Space Sciences at Peking University, majoring in Geochemistry. His current research interest is cyclostratigraphy.
 
 ## Research Keywords
 

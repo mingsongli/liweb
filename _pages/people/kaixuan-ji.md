@@ -8,14 +8,14 @@ author_profile: true
 <div class="person-profile">
   <img class="person-profile__photo" src="{{ '/images/people/kaixuan-ji.jpg' | relative_url }}" alt="Kaixuan Ji">
   <div class="person-profile__summary">
-    <p class="person-profile__role">Postdoctoral Scholar</p>
+    <p class="person-profile__role">Former Postdoctoral Scholar</p>
     <p><strong>Affiliation:</strong> School of Earth and Space Sciences, Peking University</p>
     <p><strong>Email:</strong> <a href="mailto:k.ji@pku.edu.cn">k.ji@pku.edu.cn</a>; <a href="mailto:jikaixuan_cug@163.com">jikaixuan_cug@163.com</a></p>
     <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0002-6708-3010">0000-0002-6708-3010</a></p>
   </div>
 </div>
 
-I am a Postdoctoral Scholar in the School of Earth and Space Sciences at Peking University. My research interests involve the Permian-Triassic mass extinction, sedimentology, sequence stratigraphy, basin analysis, palaeoclimate change, high-resolution palaeohydrology reconstruction, hyperthermal events, storms, palaeosols, Earth surface processes and sedimentary modelling, astrochronology and sedimentary noise, and Cretaceous Solar System chaos.
+I was a Postdoctoral Scholar in the School of Earth and Space Sciences at Peking University. My research interests involve the Permian-Triassic mass extinction, sedimentology, sequence stratigraphy, basin analysis, palaeoclimate change, high-resolution palaeohydrology reconstruction, hyperthermal events, storms, palaeosols, Earth surface processes and sedimentary modelling, astrochronology and sedimentary noise, and Cretaceous Solar System chaos.
 
 ## Research Interests
 

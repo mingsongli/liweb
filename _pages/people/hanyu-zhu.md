@@ -8,13 +8,13 @@ author_profile: true
 <div class="person-profile">
   <img class="person-profile__photo" src="{{ '/images/people/hanyu-zhu.jpg' | relative_url }}" alt="Hanyu Zhu">
   <div class="person-profile__summary">
-    <p class="person-profile__role">PhD Student</p>
+    <p class="person-profile__role">PhD Candidate</p>
     <p><strong>Email:</strong> <a href="mailto:hyzhu@pku.edu.cn">hyzhu@pku.edu.cn</a></p>
     <p><strong>Joined:</strong> 2023 as a PhD student; group member since 2020</p>
   </div>
 </div>
 
-Hanyu Zhu is a PhD student in Paleontology and Stratigraphy. His main research interests focus on the application of Bayesian statistical methods in quantitative stratigraphy, including proxy-based stratigraphic correlation and statistical tuning of cyclostratigraphy. His current work uses geological records to constrain the evolution of early Cenozoic orbital parameters, especially the astrochronological framework of the Paleocene-Eocene Thermal Maximum.
+Hanyu Zhu is a PhD candidate in Paleontology and Stratigraphy. His main research interests focus on the application of Bayesian statistical methods in quantitative stratigraphy, including proxy-based stratigraphic correlation and statistical tuning of cyclostratigraphy. His current work uses geological records to constrain the evolution of early Cenozoic orbital parameters, especially the astrochronological framework of the Paleocene-Eocene Thermal Maximum.
 
 ## Research Keywords
 
