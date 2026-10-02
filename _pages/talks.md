@@ -7,7 +7,10 @@ author_profile: true
 
 ## Invited Talks and Speaking Engagements
 
-* 2026, Tongji University, Shanghai. Invited Speaker.
+* September 24, 2026, National Space Science Center, Chinese Academy of Sciences, Beijing, China. Invited Speaker.
+* May 13, 2026, Chongqing University of Science and Technology, Chongqing, China. Invited Speaker.
+* April 17, 2026, Peking University Library, Beijing, China. Invited Speaker.
+* January 26, 2026, Tongji University, Shanghai, China. Invited Speaker.
 * 2025, School of Atmospheric Sciences, Lanzhou University, Lanzhou. Invited Speaker.
 * 2025, School of Earth Sciences, Lanzhou University, Lanzhou. Invited Speaker.
 * 2025, Northwest University, Xi'an. Invited Speaker.
@@ -23,7 +26,7 @@ author_profile: true
 * 2024, Paris Observatory, Paris, France. Invited Speaker.
 * 2024, Workshop: Cyclostratigraphy Intercomparison Project 2.0, Brussels, Belgium. Keynote Speaker.
 * 2024, Shenyang Normal University, Shenyang. Invited Speaker.
-* 2024, College of Earth and Space Sciences, Peking University, Beijing. Invited Academic Lunch.
+* 2024, School of Earth and Space Sciences, Peking University, Beijing. Invited Speaker.
 * 2023, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing. Invited Speaker.
 * 2023, Research Institute of Petroleum Exploration and Development, China National Petroleum Corporation, Beijing. Invited Speaker.
 * 2023, Institute of Tibetan Plateau Research, Chinese Academy of Sciences. Invited Speaker.

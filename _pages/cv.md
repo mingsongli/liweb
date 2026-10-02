@@ -33,7 +33,7 @@ Selected awards and honors
 ======
 * 2026 Sun Shu Prize, International Association of Sedimentologists (IAS)
 * 2025 The 4th "China Sun Shu Award"
-* 2025 Major Advances in Chinese Paleontology in 2024, Paleontological Society of China
+* 2025 China's Top 10 Advances in Paleontology (2024)
 * 2025 Stanford/Elsevier World's Top 2% Scientists
 * 2024 Stanford/Elsevier World's Top 2% Scientists
 * 2024 Outstanding Editorial Group Member, National Science Review
@@ -47,21 +47,10 @@ Research grants and projects
 * Jan. 2025-Dec. 2028, National Natural Science Foundation of China, "Cyclostratigraphy of the secular resonance transition event of planetary orbits in the early Cenozoic chaotic Solar System" (42472050), PI
 * Dec. 2022-Nov. 2027, National Key R&D Program of China (2022YFF0802900), "Temporal and spatial evolution of orbital scale ocean deoxygenation during the Paleocene-Eocene Thermal Maximum", PI
 * Nov. 2021-Oct. 2026, National Key R&D Program of China (2021YFA0718200), "Metal stable isotope geochemical technique for tracing the evolution of the Earth's habitability in the middle Proterozoic", Co-PI
-* Jan. 2022-Dec. 2025, National Natural Science Fund for Excellent Young Scientists Fund Program (Overseas), "Astrochronology and past global change", PI
+* Jan. 2022-Dec. 2025, National Natural Science Foundation of China, "Astrochronology and past global change", PI
 * Jan. 2021-Dec. 2024, National Natural Science Foundation of China (No. 42072040), "Study on the mechanism of lake level and sea level changes in the Early Triassic of China and Germany based on sedimentary noise modeling", PI
 * Jan. 2021-Dec. 2022, the Fundamental Research Funds for the Central Universities (No. 7100603368), "High resolution astrochronology and paleoclimate change", PI
 * July 2021-June 2022, Hubei Key Laboratory of Critical Zone Evolution, China University of Geosciences, Wuhan (No. 2021F07), "Sea level reconstruction from the Lower Triassic Xiejiacao section of Guangan, Sichuan", PI
-* Mar. 2017-Dec. 2020, Heising-Simons Foundation award (No. 2016-011), "Paleoclimate Data Assimilation for Deep Time", took part
-* Sept. 2016-Feb. 2017, NSF-Standard Grant-OCE-1303605, "Collaborative Research: The relationship between multi-year droughts in California, coupled ocean-atmosphere climate oscillations and climate forcing", took part
-* Sept. 2014-Aug. 2016, China Scholarship Council (No. 201406410029), "Astrochronology of Triassic Type Stratigraphic Sections in South China", PI
-* Jan. 2014-Dec. 2016, National Science Fund of China for Excellent Young Scholars (No. 41322013), "Astronomical cycles and Deep-time Global Change", took part
-* Jan. 2014-Dec. 2016, National Science Foundation for Young Scientists of China (No. 41302113), "Recognition of Milankovitch cycles from the Xujiahe Formation in the Western Sichuan basin and the establishment of astronomical time scale", took part
-* Jan. 2012-Dec. 2014, National Science Foundation for Young Scientists of China (No. 41102004), "Study of the Carboniferous conodont in the central Jilin area", took part
-* Sept. 2012-Dec. 2014, The National Basic Research Program (973 Program), "Climate and Environment Evolution in the late Mesozoic Greenhouse" (No. 2012CB822000-G), took part
-* 2011-2012, Program of Key Laboratory of Ministry of Education, China, "Late Paleozoic Phytogeography of Yanbian area, Jilin", Co-PI
-* 2011-2012, China Geological Survey, "Stratigraphic Correlation of the Carboniferous-Permian in Tianshan-Xingmeng Tectonic Region", took part
-* 2011-2012, Institute of Mineral Resources, Chinese Academy of Geological Sciences, "Stratigraphy of the Devonian-Carboniferous in the Northeastern China and Prospects of Hydrocarbon Resources", took part
-* Sept. 2009-June 2012, National Strategic Research Center of Oil & Gas, "Hydrocarbon Resources Investigation in the Late Paleozoic in Songliao Basin and adjacent area" (14B09XQ1201), took part
 
 Professional service and activities
 ======
@@ -80,6 +69,8 @@ Professional service and activities
 
 ## Conference chair and convener
 
+* 2027, European Geosciences Union (EGU) General Assembly, Vienna, Austria, Co-Convener, Session CL4.1: Orbital forcing of global and regional events throughout Earth history
+* 2026, The 32nd Annual Meeting of the Palaeontological Society of China (PSC), Xi'an, China, Convener, S19: High-Resolution Integrated Stratigraphy and Geochronology
 * 2026, The 7th International Palaeogeography Conference, Mendoza, Argentina, Convener, T7-7: Astronomical forcing of palaeoclimate and palaeoenvironmental systems
 * 2026, The 5th International Stratigraphic Congress (STRATI), Kunshan, Jiangsu, China, Co-Convener, G12: Cyclostratigraphy and its applications in geochronology and paleoclimatology
 * 2026, European Geosciences Union (EGU) General Assembly, Vienna, Austria, Co-Convener, Session CL4.1: Orbital forcing of global and regional events throughout Earth history
@@ -126,4 +117,4 @@ Professional service and activities
 * Poland: Polish National Science Centre (NCN)
 * Netherlands: Dutch Research Council (NWO)
 
-[Download full CV](/files/Mingsong_Li_CV.docx).
+[Download full CV (PDF, October 2026)](/files/Mingsong_Li_CV.pdf).
