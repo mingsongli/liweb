@@ -19,7 +19,7 @@ I also develop open research tools, including [Acycle](https://acycle.org/) for 
   <div>
     <h3><a href="https://mp.weixin.qq.com/s/uMM53gnvaOojyqNqBwmVjw" target="_blank" rel="noopener noreferrer">Orbital forcing of Early Triassic climate and sedimentation revealed at Dayulin</a></h3>
     <p class="news-date">Published: October 2, 2026</p>
-    <p>Haotian Zhang’s first-author study in <em>Science China Earth Sciences</em> establishes a floating astronomical time scale for the Dayulin section in North China using the 405 kyr long-eccentricity cycle. Sedimentary noise modeling identifies a 1.2 Myr obliquity modulation cycle linked to Earth–Mars orbital interactions, highlighting long-term orbital influences on terrestrial hydroclimate and depositional stability. The results strengthen terrestrial–marine stratigraphic correlation and provide geological constraints for refining astronomical solutions.</p>
+    <p>Dr. Haotian Zhang’s first-author study in <em>Science China Earth Sciences</em> establishes a floating astronomical time scale for the Dayulin section in North China using the 405 kyr long-eccentricity cycle. Sedimentary noise modeling identifies a 1.2 Myr obliquity modulation cycle linked to Earth–Mars orbital interactions, highlighting long-term orbital influences on terrestrial hydroclimate and depositional stability. The results strengthen terrestrial–marine stratigraphic correlation and provide geological constraints for refining astronomical solutions.</p>
   </div>
 </article>
 
