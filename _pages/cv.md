@@ -37,7 +37,6 @@ Selected awards and honors
 * 2025 Stanford/Elsevier World's Top 2% Scientists
 * 2024 Stanford/Elsevier World's Top 2% Scientists
 * 2024 Outstanding Editorial Group Member, National Science Review
-* 2021 National Young Talents Program
 * 2021 Peking University Boya Young Fellow
 * 2021 AGU Outstanding Reviewer
 
@@ -47,7 +46,6 @@ Research grants and projects
 * Jan. 2025-Dec. 2028, National Natural Science Foundation of China, "Cyclostratigraphy of the secular resonance transition event of planetary orbits in the early Cenozoic chaotic Solar System" (42472050), PI
 * Dec. 2022-Nov. 2027, National Key R&D Program of China (2022YFF0802900), "Temporal and spatial evolution of orbital scale ocean deoxygenation during the Paleocene-Eocene Thermal Maximum", PI
 * Nov. 2021-Oct. 2026, National Key R&D Program of China (2021YFA0718200), "Metal stable isotope geochemical technique for tracing the evolution of the Earth's habitability in the middle Proterozoic", Co-PI
-* Jan. 2022-Dec. 2025, National Natural Science Foundation of China, "Astrochronology and past global change", PI
 * Jan. 2021-Dec. 2024, National Natural Science Foundation of China (No. 42072040), "Study on the mechanism of lake level and sea level changes in the Early Triassic of China and Germany based on sedimentary noise modeling", PI
 * Jan. 2021-Dec. 2022, the Fundamental Research Funds for the Central Universities (No. 7100603368), "High resolution astrochronology and paleoclimate change", PI
 * July 2021-June 2022, Hubei Key Laboratory of Critical Zone Evolution, China University of Geosciences, Wuhan (No. 2021F07), "Sea level reconstruction from the Lower Triassic Xiejiacao section of Guangan, Sichuan", PI
