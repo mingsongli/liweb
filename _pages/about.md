@@ -17,6 +17,14 @@ I also develop open research tools, including [Acycle](https://acycle.org/) for 
 
 <article class="research-news-card research-news-card--text">
   <div>
+    <h3><a href="https://doi.org/10.1073/pnas.2538105123" target="_blank" rel="noopener noreferrer">PNAS study clarifies marine–terrestrial synchrony of the end-Permian extinction peak</a></h3>
+    <p class="news-date">Published: October 27, 2026</p>
+    <p>A collaborative study involving our group, published in <em>PNAS</em>, combines magnetostratigraphy, cyclostratigraphy, and carbon-isotope and mercury records from the Sigou section in North China to address the debated timing of the end-Permian mass extinction on land and in the oceans. The results support a synchronous extinction peak between marine ecosystems and low- to middle-latitude terrestrial North China, while indicating differences in timing relative to high-latitude and tropical landmasses. This framework improves correlations of environmental and biotic change across the Permian–Triassic transition.</p>
+  </div>
+</article>
+
+<article class="research-news-card research-news-card--text">
+  <div>
     <h3><a href="https://www.nature.com/articles/s41467-026-78601-x" target="_blank" rel="noopener noreferrer">Congratulations to Dr. Meng Wang on a first-author paper in Nature Communications</a></h3>
     <p class="news-date">Published: October 24, 2026</p>
     <p>Congratulations to Dr. Meng Wang on the publication of “Coupled sea-level and biodiversity dynamics during the Cambrian SPICE event” in <em>Nature Communications</em>! The study combines astrochronology, carbon isotope records, and fossil diversity data to identify an approximately 2-million-year rhythm shared by sea-level and biodiversity changes. Sea-level shifts are estimated to precede changes in benthic species richness by about 70,000 years, providing new insights into the links between orbital forcing, ocean conditions, and marine ecosystem change.</p>
